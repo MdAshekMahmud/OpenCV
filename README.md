@@ -29,10 +29,12 @@ Matplotlib
 | Lane Detection   | Detect road lanes               |
 | YOLO Detection   | Real-time object detection      |
 
-## Progress
+## 🚀 OpenCV Learning Progress
 
-[x] Image Basics  
-[x] Image Processing  
-[ ] Feature Extraction  
-[ ] Deep Learning CV  
-[ ] Projects
+| Topic                                | Status      |
+| ------------------------------------ | ----------- |
+| ✅ Image Basics                      | Completed   |
+| ✅ Image Processing                  | Completed   |
+| ⏳ Feature Extraction                | In Progress |
+| ⏳ Deep Learning for Computer Vision | Upcoming    |
+| ⏳ Projects                          | Upcoming    |
