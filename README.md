@@ -1,14 +1,38 @@
-# OpenCV
+# OpenCV Learning Journey
 
-A repository for learning and practicing OpenCV and Computer Vision using Python.
+A collection of Computer Vision experiments and projects using OpenCV and Python.
 
-## Topics
+## Topics Covered
 
 - Image Processing
+- Image Transformation
+- Color Spaces
+- Thresholding
+- Morphological Operations
+- Feature Detection
 - Video Processing
-- Image Transformations
-- Contours
-- Edge Detection
 - Object Detection
-- Face Detection
-- Computer Vision Projects
+
+## Tech Stack
+
+Python  
+OpenCV  
+NumPy  
+Matplotlib
+
+## Projects
+
+| Project          | Description                     |
+| ---------------- | ------------------------------- |
+| Document Scanner | Scan documents using contours   |
+| Face Detection   | Detect faces using Haar Cascade |
+| Lane Detection   | Detect road lanes               |
+| YOLO Detection   | Real-time object detection      |
+
+## Progress
+
+[x] Image Basics  
+[x] Image Processing  
+[ ] Feature Extraction  
+[ ] Deep Learning CV  
+[ ] Projects
