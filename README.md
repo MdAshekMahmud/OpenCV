@@ -2,7 +2,7 @@
 
 A comprehensive collection of Computer Vision tutorials, examples, and projects using OpenCV and Python. This repository is structured as a progressive learning path from fundamentals to advanced applications.
 
-## 📋 Table of Contents
+## Table of Contents 📋
 
 - [Quick Start](#quick-start)
 - [Repository Structure](#repository-structure)
@@ -15,7 +15,7 @@ A comprehensive collection of Computer Vision tutorials, examples, and projects 
 - [Usage](#usage)
 - [Resources](#resources)
 
-## 🚀 Quick Start
+## Quick Start 🚀
 
 ```bash
 # Clone or navigate to the repository
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 python 01_Basics/01_read_image.py
 ```
 
-## 📁 Repository Structure
+## Repository Structure 📁
 
 ```
 OpenCV/
@@ -52,7 +52,7 @@ OpenCV/
 └── requirements.txt                    # Python dependencies
 ```
 
-## 📚 Topics & Modules
+## Topics & Modules 📚
 
 ### Core Learning Modules
 
@@ -84,7 +84,7 @@ OpenCV/
 - [10_Object_Detection](./10_Object_Detection/README.md)
 - [11_Deep_Learning_with_OpenCV](./11_Deep_Learning_with_OpenCV/README.md)
 
-## 🎯 Projects
+## Projects 🎯
 
 Real-world applications demonstrating complete workflows:
 
@@ -95,7 +95,7 @@ Real-world applications demonstrating complete workflows:
 | **Lane Detection**        | Detect road lanes in driving videos                                   | Canny Edge Detection, Hough Transform, Video Processing | [projects/03_Lane_Detection](./projects/03_Lane_Detection)               |
 | **YOLO Object Detection** | Real-time object detection using YOLO deep learning model             | YOLO, DNN Module, Real-time Detection                   | [projects/04_Object_Detection_YOLO](./projects/04_Object_Detection_YOLO) |
 
-## 🛠 Tech Stack
+## Tech Stack 🛠
 
 | Technology           | Purpose                     |
 | -------------------- | --------------------------- |
@@ -105,7 +105,7 @@ Real-world applications demonstrating complete workflows:
 | **Matplotlib**       | Data visualization          |
 | **Jupyter Notebook** | Interactive experimentation |
 
-## 📖 Learning Path
+## Learning Path 📖
 
 ### Beginner Level ✅
 
@@ -130,14 +130,14 @@ Real-world applications demonstrating complete workflows:
 10. Master [10_Object_Detection](./10_Object_Detection/README.md) - Detect and track objects
 11. Dive into [11_Deep_Learning_with_OpenCV](./11_Deep_Learning_with_OpenCV/README.md) - AI-powered vision
 
-## ⚙️ Prerequisites
+## Prerequisites ⚙️
 
 - **Python 3.7+** - [Download](https://www.python.org/downloads/)
 - **pip** - Python package manager (comes with Python)
 - **Basic Python knowledge** - Variables, functions, loops
 - **Webcam (optional)** - For video processing examples
 
-## 📦 Installation
+## Installation 📦
 
 ### 1. Clone or Download Repository
 
@@ -174,7 +174,7 @@ pip install -r requirements.txt
 python -c "import cv2; print(f'OpenCV version: {cv2.__version__}')"
 ```
 
-## 💻 Usage
+## Usage 💻
 
 ### Running Individual Scripts
 
@@ -202,7 +202,7 @@ cd projects/01_Document_Scanner
 python main.py
 ```
 
-## 📚 Resources
+## Resources 📚
 
 ### Official Documentation
 
@@ -221,7 +221,7 @@ python main.py
 - [OpenCV Q&A Forum](https://answers.opencv.org/)
 - [Stack Overflow - OpenCV Tag](https://stackoverflow.com/questions/tagged/opencv)
 
-## 🚀 Progress Tracking
+## Progress Tracking 🚀
 
 | Module                        | Status         | Completion |
 | ----------------------------- | -------------- | ---------- |
@@ -238,14 +238,14 @@ python main.py
 | 11 - Deep Learning            | ⏳ In Progress | 30%        |
 | Projects                      | ⏳ In Progress | 50%        |
 
-## 📝 Notes
+## Notes 📝
 
 - Ensure sample images are present in `images/input/` before running examples
 - Some scripts require webcam access - allow permissions when prompted
 - Adjust file paths in scripts if running from different directories
 - Use virtual environment to avoid package conflicts
 
-## 🤝 Contributing
+## Contributing 🤝
 
 To add more examples or improve documentation:
 
@@ -254,7 +254,7 @@ To add more examples or improve documentation:
 3. Update relevant README files with new content
 4. Test scripts before submitting
 
-## 📄 License
+## License 📄
 
 This repository is created for educational purposes.
 
